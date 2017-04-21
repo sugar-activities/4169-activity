@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Paratrooper 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.paratrooperActivity
+bundle_id = net.gcompris.paratrooperActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
